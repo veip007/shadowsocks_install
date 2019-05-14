@@ -1,7 +1,7 @@
 ![Shadowsocks](https://github.com/teddysun/shadowsocks_install/raw/master/shadowsocks.png)
 # Auto install Shadowsocks Server
 
-四合一食用方法
+# 四合一食用方法
 ```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/veip007/shadowsocks_install/master/shadowsocks-all.sh && chmod +x shadowsocks-all.sh && ./shadowsocks-all.sh
 ```
